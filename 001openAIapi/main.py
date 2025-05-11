@@ -106,7 +106,4 @@ def display_summary(url):
     display(Markdown(summary))
 
 
-
-
-
-
+display_summary("https://github.com/speedyapply/2025-SWE-College-Jobs")
